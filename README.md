@@ -5,7 +5,7 @@ Go to `localhost:3000` to view
 
 ## Scripts
 * Server
- * `yarn start`
+  * `yarn start`
 * Client
- * `yarn run build`
- * `yarn run app:watch`
+  * `yarn run build`
+  * `yarn run app:watch`
