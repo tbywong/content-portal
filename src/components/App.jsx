@@ -1,10 +1,11 @@
 import React from 'react';
+import Home from './Home/Home.jsx';
 
 export default class App extends React.Component {
     render () {
         return (
             <div>
-                <h1>React Node Starter App</h1>
+                <Home />
             </div>
         );
     }
