@@ -1,5 +1,3 @@
-const path = require('path');
-
 module.exports = {
   entry: './src/client/index.js',
   module: {
@@ -10,46 +8,27 @@ module.exports = {
           loader: 'babel-loader'
         }
       }, {
-        test: /\.scss$/,
-        use: ['style-loader', 'css-loader', 'sass-loader']
-      }, {
         test: /\.(png|svg)$/,
         use: 'file-loader'
+      }, {
+        test: /\.scss/,
+        use: [
+          {
+            loader: 'style-loader'
+          },
+          {
+            loader: 'css-loader',
+            options: {
+              sourceMap: true,
+              modules: true,
+              localIdentName: '[path][name]__[local]--[hash:base64:5]'
+            }
+          },
+          {
+            loader: 'sass-loader'
+          }
+        ]
       }
     ]
   }
 }
-
-// const path = require('path');
-//
-// module.exports = {
-//   entry: path.join(__dirname, 'src', 'index'),
-//   output: {
-//     path: path.join(__dirname, 'src', 'static', 'js'),
-//     filename: 'bundle.js'
-//   },
-//   module: {
-//     rules: [{
-//       test: /\.js$/,
-//       exclude: /(node_modules)/,
-//       use: loader: 'babel-loader',
-//       options: {
-//         presets: ['react', 'es2015']
-//       }
-//     }, {
-//       test: /\.scss$/,
-//       use: ['style-loader', 'css-loader', 'sass-loader']
-//     }, {
-//       test: /\.(png|svg)$/,
-//       use: 'file-loader'
-//     }]
-//   }
-// }
-
-// loaders: [{
-//   test: path.join(__dirname, 'src'),
-//   loader: 'babel-loader',
-//   query: {
-//       presets: ['react', 'es2015']
-//   }
-// }],

@@ -1,0 +1,9 @@
+@value black, white from './variables.scss';
+
+html, body {
+  height: 100%;
+  margin: 0 auto;
+  background-color: black;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+}
