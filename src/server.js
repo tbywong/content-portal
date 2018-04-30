@@ -4,9 +4,10 @@ const Express = require('express');
 const app = new Express();
 
 app.use(Express.static(path.join(__dirname, '../dist')));
+app.use(Express.static(path.join(__dirname, '../public')));
 
 app.get('/', (request, response) => {
-  response.sendFile(path.join(__dirname, '../index.html'));
+  response.sendFile(path.join(__dirname, './client/index.html'));
 });
 
 app.listen(3000, () => {
