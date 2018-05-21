@@ -1,11 +1,11 @@
-import React from 'react';
-import styles from './navigation.scss';
+import React, { Component } from 'react';
 import logo from '../../images/sc_logo.svg';
+import './navigation.scss';
 
-export default class Navigation extends React.Component {
+export default class Navigation extends Component {
   render () {
     return (
-      <div className={styles.navigation}>
+      <div className="cp-navigation">
         <ul>
           <li>
             <a href="https://www.stackcommerce.com"><img src={logo} /></a>

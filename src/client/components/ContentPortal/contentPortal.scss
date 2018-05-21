@@ -1,5 +1,8 @@
-.contentPortal .title {
-  text-align: center;
-  margin-bottom: 50px;
-  font-weight: bold;
+.cp-content-portal {
+  &__title {
+    text-align: center;
+    margin-bottom: 50px;
+    font-weight: bold;
+    font-size: 36px;
+  }
 }

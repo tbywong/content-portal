@@ -1,5 +1,9 @@
 module.exports = {
   entry: './src/client/index.js',
+  mode: 'development',
+  performance: {
+    hints: false
+  },
   module: {
     rules: [
       {
@@ -17,12 +21,7 @@ module.exports = {
             loader: 'style-loader'
           },
           {
-            loader: 'css-loader',
-            options: {
-              sourceMap: true,
-              modules: true,
-              localIdentName: '[path][name]__[local]--[hash:base64:5]'
-            }
+            loader: 'css-loader'
           },
           {
             loader: 'sass-loader'

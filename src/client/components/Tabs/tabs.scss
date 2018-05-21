@@ -1,0 +1,35 @@
+@import "../variables";
+
+.cp-categories {
+  .ui.tabular.menu {
+    border-bottom: none;
+
+    .item {
+      background-color: $gray-black;
+      width: 33.33%;
+      color: $white;
+      border-radius: 10px 10px 0 0 !important;
+      margin-right: 2px;
+      letter-spacing: 1px;
+      justify-content: center;
+
+      i {
+        color: $black;
+      }
+    }
+
+    .active {
+      background-color: $brand-teal;
+      border-color: $brand-teal;
+      font-weight: normal;
+    }
+  }
+
+  .ui.attached.segment {
+    border: none;
+  }
+
+  .cp-tab-pane {
+    background-color: $brand-teal;
+  }
+}
