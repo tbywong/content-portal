@@ -1,0 +1,538 @@
+[
+  {
+    "article_title": "10 Must-Have Skills That Will Give Your Resume a Huge Boost",
+    "publisher": "Cracked",
+    "content_type": "premium",
+    "categories": "Listicle, Tech",
+    "article_url": "http://www.cracked.com/blog/make-internet-your-virtual-playground-with-these-items/",
+    "image": "Thumb27.png"
+  },
+  {
+    "article_title": "The Web's Best Black Friday Tech Deals",
+    "publisher": "iDropNews",
+    "content_type": "Premium",
+    "categories": "Tech, Gift Guides",
+    "article_url": "https://www.idropnews.com/deals/webs-best-black-friday-tech-deals/26801",
+    "image": "Thumb2.png"
+  },
+  {
+    "article_title": "Qi Wireless Fast Charging Pad Review",
+    "publisher": "iDropNews",
+    "content_type": "Premium",
+    "categories": "Product Reviews",
+    "article_url": "https://www.idropnews.com/reviews/qi-wireless-fast-charging-pad-review/67163/",
+    "image": "Thumb32.png"
+  },
+  {
+    "article_title": "UltraBright 500-Lumen Tactical Military Flashlight 2-Pack Review",
+    "publisher": "iDropNews",
+    "content_type": "Premium",
+    "categories": "Product Reviews",
+    "article_url": "https://www.idropnews.com/reviews/ultrabright-500-lumen-tactical-military-flashlight-2-pack-review/66774/",
+    "image": "Thumb31.png"
+  },
+  {
+    "article_title": "Electron Flow MFi-Certified Lightning Cable Review",
+    "publisher": "iDropNews",
+    "content_type": "Premium",
+    "categories": "Product Reviews",
+    "article_url": "https://www.idropnews.com/reviews/electron-flow-mfi-certified-lightning-cable-review/63583/",
+    "image": "Thumb3.png"
+  },
+  {
+    "article_title": "Neva Tech Wi-Fi HD Waterproof Endoscopic Camera Review",
+    "publisher": "iDropNews",
+    "content_type": "Premium",
+    "categories": "Product Reviews",
+    "article_url": "https://www.idropnews.com/reviews/neva-tech-wi-fi-hd-waterproof-endoscopic-camera-review/64838/",
+    "image": "Thumb6.png"
+  },
+  {
+    "article_title": "ZeroLemon PowerCube 50,000mAh Power Station Review",
+    "publisher": "iDropNews",
+    "content_type": "Premium",
+    "categories": "Product Reviews",
+    "article_url": "https://www.idropnews.com/reviews/zerolemon-powercube-50000mah-power-station-review/67744/",
+    "image": "Thumb30.png"
+  },
+  {
+    "article_title": "NordVPN: 2-Yr Subscription Review",
+    "publisher": "iDropNews",
+    "content_type": "Premium",
+    "categories": "Product Reviews",
+    "article_url": "https://www.idropnews.com/reviews/nordvpn-2-yr-subscription-review/68325/",
+    "image": "Thumb7.png"
+  },
+  {
+    "article_title": "7 Ways to Protect Your iPhone in 2017",
+    "publisher": "iDropNews",
+    "content_type": "Premium",
+    "categories": "Product Reviews, Current Events, Listicle",
+    "article_url": "https://www.idropnews.com/news/iphone/7-ways-to-protect-your-iphone-in-2017/29868/",
+    "image": "Thumb1.png"
+  },
+  {
+    "article_title": "Make Perfect Iced Coffee At Home With The HyperChiller (25% Off)",
+    "publisher": "BroBible",
+    "content_type": "Standard",
+    "categories": "Men's Lifestyle",
+    "article_url": "https://brobible.com/gear/article/hyperchiller-iced-coffee/",
+    "image": "Thumb13.png"
+  },
+  {
+    "article_title": "Here's Why You Need a VPN (And How To Get One)",
+    "publisher": "Cracked",
+    "content_type": "Premium",
+    "categories": "Tech, Current Events",
+    "article_url": "http://www.cracked.com/blog/you-deserve-best-online-protection-we-got-it-right-here/",
+    "image": "Thumb20.png"
+  },
+  {
+    "article_title": "Meet the Smartwatch That's Beating Out Apple And Google",
+    "publisher": "Digg",
+    "content_type": "Premium",
+    "categories": "Men's Lifestyle",
+    "article_url": "http://digg.com/2017/best-smartwatch-ticwatch-2",
+    "image": "Thumb25.png"
+  },
+  {
+    "article_title": "Grab the newest edition of Sid Meier's Civilization for less than $30",
+    "publisher": "The Daily Dot",
+    "content_type": "Standard",
+    "categories": "Men's Lifestyle",
+    "article_url": "https://www.dailydot.com/bazaar/sid-meiers-civilization-vi/",
+    "image": "Thumb9.png"
+  },
+  {
+    "article_title": "Now Is The Time To Become A White Hat Hacker",
+    "publisher": "Digg",
+    "content_type": "Premium",
+    "categories": "Current Events, Tech",
+    "article_url": "http://digg.com/2017/learn-white-hat-hacking-ethical-hacking",
+    "image": "Thumb21.png"
+  },
+  {
+    "article_title": "These Wireless, Noise-Canceling Earbuds Work Like AirPods Without The Price Tag",
+    "publisher": "The Daily Beast",
+    "content_type": "Standard",
+    "categories": "Men's Lifestyle, Women's Lifestyle",
+    "article_url": "https://www.thedailybeast.com/the-most-practical-gift-wireless-noise-canceling-earbuds",
+    "image": "Thumb8.png"
+  },
+  {
+    "article_title": "You'll Need One of These 5 VPNS Once Net Neutrality Is Gone",
+    "publisher": "The Daily Beast",
+    "content_type": "Standard",
+    "categories": "Current Events, Tech",
+    "article_url": "https://www.thedailybeast.com/youll-need-one-of-these-5-vpns-once-net-neutrality-is-gone",
+    "image": "Thumb17.png"
+  },
+  {
+    "article_title": "Why AWS Dominates the Internet",
+    "publisher": "Digg",
+    "content_type": "Premium",
+    "categories": "Current Events, Tech",
+    "article_url": "http://digg.com/2018/why-aws-dominates-the-internet",
+    "image": "Thumb22.png"
+  },
+  {
+    "article_title": "Meet the world's first THX-certified headphones",
+    "publisher": "Salon",
+    "content_type": "Standard",
+    "categories": "Men's Lifestyle, Deal Articles",
+    "article_url": "https://www.salon.com/2018/03/13/meet-the-worlds-first-thx-certified-headphones/",
+    "image": "Thumb11.png"
+  },
+  {
+    "article_title": "Take this complete Cisco certification training at a new lower drop",
+    "publisher": "Boing Boing",
+    "content_type": "Standard",
+    "categories": "Tech, Deal Articles",
+    "article_url": "https://boingboing.net/2018/04/08/take-this-complete-cisco-certi.html",
+    "image": "Thumb14.png"
+  },
+  {
+    "article_title": "How Arch Hosting helps you bypass steep web hosting fees",
+    "publisher": "Boing Boing",
+    "content_type": "Standard",
+    "categories": "Tech, Deal Articles",
+    "article_url": "https://boingboing.net/2018/02/16/how-arch-hosting-helps-you-byp.html",
+    "image": "Thumb15.png"
+  },
+  {
+    "article_title": "This speaker looks like the '50s but sounds like the future",
+    "publisher": "Boing Boing",
+    "content_type": "Standard",
+    "categories": "Tech, Deal Articles",
+    "article_url": "https://boingboing.net/2018/03/31/this-speaker-looks-like-the.html",
+    "image": "Thumb33.png"
+  },
+  {
+    "article_title": "This Software Lets You Design Complex Structures with Stunning Clarity",
+    "publisher": "Interesting Engineering",
+    "content_type": "Standard",
+    "categories": "Tech, Deal Articles",
+    "article_url": "https://interestingengineering.com/this-software-lets-you-design-complex-structures-with-stunning-clarity",
+    "image": "Thumb34.png"
+  },
+  {
+    "article_title": "You Can Become an Excel Power User with This 70+ Hour Training Bundle",
+    "publisher": "Interesting Engineering",
+    "content_type": "Standard",
+    "categories": "Tech, Deal Articles",
+    "article_url": "https://interestingengineering.com/you-can-become-an-excel-power-user-with-this-70-hour-training-bundle",
+    "image": "Thumb35.png"
+  },
+  {
+    "article_title": "You Can Earn All Three Lean Six Sigma Certifications with Help from This Bundle",
+    "publisher": "Interesting Engineering",
+    "content_type": "Standard",
+    "categories": "Tech, Deal Articles",
+    "article_url": "https://interestingengineering.com/you-can-earn-all-three-lean-six-sigma-certifications-with-help-from-this-bundle",
+    "image": "Thumb36.png"
+  },
+  {
+    "article_title": "Get A Lifetime Of Project Management Professional Certification Training For $49",
+    "publisher": "PC World",
+    "content_type": "Standard",
+    "categories": "Tech, Deal Articles",
+    "article_url": "https://www.pcworld.com/article/3262647/it-skills-training/get-a-lifetime-of-project-management-professional-certification-training-for-49.html",
+    "image": "Thumb37.png"
+  },
+  {
+    "article_title": "Build Your Own Space Program with This Realistic Simulator [Sponsored]",
+    "publisher": "Space.com",
+    "content_type": "Standard",
+    "categories": "Tech, Deal Articles",
+    "article_url": "https://www.space.com/36021-kerbal-space-program-steam-codes-deal.html",
+    "image": "Thumb38.png"
+  },
+  {
+    "article_title": "The AirBeans X earbuds deliver cutting-edge wireless sound for under $55",
+    "publisher": "PopScience",
+    "content_type": "Standard",
+    "categories": "Tech, Mens Lifestyle",
+    "article_url": "https://www.popsci.com/airbeans-x-wireless-earbuds",
+    "image": "Thumb38.png"
+  },
+  {
+    "article_title": "This Pocket-Sized Sensor Helps You Match Any Color Instantly",
+    "publisher": "Dailybeast",
+    "content_type": "Standard",
+    "categories": "Tech",
+    "article_url": "https://www.thedailybeast.com/this-pocket-sized-sensor-helps-you-match-any-color-instantly",
+    "image": "Thumb39.png"
+  },
+  {
+    "article_title": "This Brilliantly-Designed Umbrella Will Make You Love Rainy Days",
+    "publisher": "Goodhousekeeping",
+    "content_type": "Standard",
+    "categories": "Women's Lifestyle",
+    "article_url": "https://www.goodhousekeeping.com/life/a19500447/swisstek-double-layer-smart-umbrella/",
+    "image": "Thumb40.png"
+  },
+  {
+    "article_title": "3 Basic Tips to Know About Currency Trading",
+    "publisher": "Entreprenuer",
+    "content_type": "Standard",
+    "categories": "Current Events",
+    "article_url": "https://www.entrepreneur.com/article/290911",
+    "image": "Thumb41.png"
+  },
+  {
+    "article_title": "It’s not too late to invest in cryptocurrency",
+    "publisher": "Salon",
+    "content_type": "Standard",
+    "categories": "Current Events, Lifestyle",
+    "article_url": "https://www.salon.com/2018/01/07/its-not-too-late-to-invest-in-cryptocurrency/",
+    "image": "Thumb42.png"
+  },
+  {
+    "article_title": "ScienceAlert Deals: These Were Our Top 10 Tech Deals of 2017",
+    "publisher": "Science Alert",
+    "content_type": "Standard",
+    "categories": "Listicle, Tech",
+    "article_url": "https://www.sciencealert.com/top-10-tech-deals-of-2017",
+    "image": "Thumb43.png"
+  },
+  {
+    "article_title": "This $20 shower speaker could be what your bathroom's missing",
+    "publisher": "Mashable",
+    "content_type": "Standard",
+    "categories": "Deal Articles, Men's Lifestyle",
+    "article_url": "https://mashable.com/2017/06/20/shower-speaker-on-sale/#.q6V4nbYkEqs",
+    "image": "Thumb44.png"
+  },
+  {
+    "article_title": "These $150 noise-cancelling headphones are just $80 today",
+    "publisher": "Engadget",
+    "content_type": "Standard",
+    "categories": "Deal Articles, Tech",
+    "article_url": "https://www.engadget.com/2018/02/13/paww-wavesound-headphones/",
+    "image": "Thumb45.png"
+  },
+  {
+    "article_title": "Design your Dream Home...",
+    "publisher": "Macworld",
+    "content_type": "Standard",
+    "categories": "Deal Articles,Tech",
+    "article_url": "https://www.macworld.com/article/3256293/macs/design-your-dream-home-with-live-home-3d-pro-for-mac-now-60-off.html",
+    "image": "Thumb46.png"
+  },
+  {
+    "article_title": "Save over 40% on this Bluetooth beanie that makes a hip holiday gift for any music lover",
+    "publisher": "SF Gate",
+    "content_type": "Standard",
+    "categories": "Deal Articles, Tech",
+    "article_url": "https://www.sfgate.com/sponsoredarticles/stackcommerce/lifestyle/article/Save-over-40-on-this-Bluetooth-beanie-that-makes-10793734.php",
+    "image": "Thumb47.png"
+  },
+  {
+    "article_title": "7 amazing gift ideas for the men in your life",
+    "publisher": "AOL",
+    "content_type": "Standard",
+    "categories": "Listicle, Gift Guides",
+    "article_url": "https://www.aol.com/article/lifestyle/2016/11/06/7-amazing-gift-ideas-for-the-men-in-your-life/21595717/",
+    "image": "Thumb48.png"
+  },
+  {
+    "article_title": "Order Mother’s Day flowers for half off, and stay on mom’s good side",
+    "publisher": "Dailydot",
+    "content_type": "Standard",
+    "categories": "Deal Articles, Gift Guides",
+    "article_url": "https://www.dailydot.com/bazaar/mothers-day-flowers/",
+    "image": "Thumb49.png"
+  },
+  {
+    "article_title": "Eight Stocking Stuffer Gifts That Do Not Suck",
+    "publisher": "Digg",
+    "content_type": "Standard",
+    "categories": "Listicle, Gift Guides",
+    "article_url": "http://digg.com/2016/best-stocking-stuffer-gifts",
+    "image": "Thumb50.png"
+  },
+  {
+    "article_title": "5 easy ways to spice up your holiday cooking",
+    "publisher": "AOL",
+    "content_type": "Standard",
+    "categories": "Listicle, Women's Lifestyle",
+    "article_url": "https://www.aol.com/article/lifestyle/2016/11/10/5-easy-ways-to-spice-up-your-holiday-cooking/21599195/",
+    "image": "Thumb51.png"
+  },
+  {
+    "article_title": "How to learn to read 3x faster and know all the things",
+    "publisher": "Mashable",
+    "content_type": "Standard",
+    "categories": "Men's Lifestyle",
+    "article_url": "http://mashable.com/2017/07/19/speed-reader-bundle-deal/#ptqhTrdHLiqP",
+    "image": "Thumb52.png"
+  },
+  {
+    "article_title": "The all-in-one travel jacket everyone is talking about",
+    "publisher": "USA Today",
+    "content_type": "Standard",
+    "categories": "Men's Lifestyle, Women's Lifestyle",
+    "article_url": "https://www.usatoday.com/story/sponsor-story/usat-network-shop/2017/12/06/last-minute-gift-ideas-jetsetter/108374694/",
+    "image": "Thumb53.png"
+  },
+  {
+    "article_title": "$145 Says We Can Talk You Into Buying This Drone",
+    "publisher": "Cracked",
+    "content_type": "Standard",
+    "categories": "Tech",
+    "article_url": "http://www.cracked.com/blog/we-just-gave-you-all-reasons-you-need-to-buy-this-drone/",
+    "image": "Thumb54.png"
+  },
+  {
+    "article_title": "5 Reasons Why Python Should Be the First Coding Language You Learn",
+    "publisher": "Popular Mechanics",
+    "content_type": "Premium",
+    "categories": "Listicle, Tech",
+    "article_url": "http://www.popularmechanics.com/technology/a27222/5-reasons-python-should-be-the-first-coding-language-you-learn/",
+    "image": "Thumb55.png"
+  },
+  {
+    "article_title": "Get an amazing bargain on these luxury bamboo sheets",
+    "publisher": "AOL",
+    "content_type": "Standard",
+    "categories": "Deal Articles, Women's Lifestyle",
+    "article_url": "https://www.aol.com/article/lifestyle/2016/10/18/get-an-amazing-bargain-on-these-luxury-bamboo-sheets/21575297/",
+    "image": "Thumb56.png"
+  },
+  {
+    "article_title": "Get That Celeb Physique At Home (Without Taking Up Tons Of Space)!",
+    "publisher": "Radar Online",
+    "content_type": "Standard",
+    "categories": "Deal Articles, Women's Lifestyle",
+    "article_url": "https://radaronline.com/exclusives/2018/04/get-that-celeb-physique-at-home-without-taking-up-tons-of-space/",
+    "image": "Thumb57.png"
+  },
+  {
+    "article_title": "Snag This Trendy Gym Bag that Comes Equipped with Tons of Awesome Features",
+    "publisher": "US Weekly",
+    "content_type": "Standard",
+    "categories": "Deal Articles, Women's Lifestyle",
+    "article_url": "https://www.usmagazine.com/stylish/news/trendy-gym-bag-comes-equipped-with-tons-of-awesome-features/",
+    "image": "Thumb58.png"
+  },
+  {
+    "article_title": "The Most Exciting Beauty Trends of 2018",
+    "publisher": "Joyus",
+    "content_type": "Standard",
+    "categories": "Women's Lifestyle",
+    "article_url": "http://blog.joyus.com/the-most-exciting-beauty-trends-of-2018/",
+    "image": "Thumb59.png"
+  },
+  {
+    "article_title": "How to throw the perfect DIY glamping party",
+    "publisher": "AOL",
+    "content_type": "Standard",
+    "categories": "Listicle, Women's Lifestyle",
+    "article_url": "https://www.aol.com/article/lifestyle/2016/10/02/how-to-throw-the-perfect-diy-glamping-party/21480459/",
+    "image": "Thumb60.png"
+  },
+  {
+    "article_title": "3 Buzzy Wellness Items You Need This Spring",
+    "publisher": "PureWow",
+    "content_type": "Standard",
+    "categories": "Listicle, Women's Lifestyle",
+    "article_url": "https://www.purewow.com/wellness/buzzy-wellness-spring-items",
+    "image": "Thumb61.png"
+  },
+  {
+    "article_title": "FenSens Smart License Plate Frame Review",
+    "publisher": "iDropNews",
+    "content_type": "Premium",
+    "categories": "Tech",
+    "article_url": "https://www.idropnews.com/reviews/fensens-smart-license-plate-frame-review/68632/",
+    "image": "Thumb24.png"
+  },
+  {
+    "article_title": "4 Reasons Your Bathroom Needs A Bidet",
+    "publisher": "Curiosity",
+    "content_type": "Premium",
+    "categories": "",
+    "article_url": "https://curiosity.com/topics/4-reasons-your-bathroom-needs-a-bidet-curiosity/",
+    "image": "Thumb26.png"
+  },
+  {
+    "article_title": "Discover why Python is an essential programming language",
+    "publisher": "Mashable",
+    "content_type": "Premium",
+    "categories": "",
+    "article_url": "http://mashable.com/2017/07/30/learn-how-to-code-with-python/#JkruZUVeBPqW",
+    "image": "Thumb19.png"
+  },
+  {
+    "article_title": "Learn How Your Friends Are Getting Rich On Cryptocurrency",
+    "publisher": "Men's Journal",
+    "content_type": "Standard",
+    "categories": "Current Events",
+    "article_url": "https://www.mensjournal.com/entertainment/learn-how-your-friends-are-getting-rich-on-cryptocurrency/",
+    "image": "Thumb12.png"
+  },
+  {
+    "article_title": "5 Items Every Man Should Travel With (All Up to 65% Off)",
+    "publisher": "Men's Journal",
+    "content_type": "Standard",
+    "categories": "Listicle",
+    "article_url": "https://www.mensjournal.com/gear/5-items-every-man-should-travel-with-all-up-to-65-off/",
+    "image": "Thumb18.png"
+  },
+  {
+    "article_title": "Last Minute Gift Ideas for the Jetsetter",
+    "publisher": "USA Today",
+    "content_type": "Premium",
+    "categories": "",
+    "article_url": "https://www.usatoday.com/story/sponsor-story/usat-network-shop/2017/12/06/last-minute-gift-ideas-jetsetter/108374694/",
+    "image": "Thumb29.png"
+  },
+  {
+    "article_title": "I tried out this app for the first time, and I've never slept better",
+    "publisher": "StackSocial",
+    "content_type": "Premium",
+    "categories": "",
+    "article_url": "http://blog.stacksocial.com/sleep-deprivation-cure/",
+    "image": "Thumb23.png"
+  },
+  {
+    "article_title": "20 gadgets under $20 that you'll actually use every day",
+    "publisher": "Mashable",
+    "content_type": "Premium",
+    "categories": "Men's Lifestyle",
+    "article_url": "https://mashable.com/2017/08/07/tech-items-for-under-20-dollars/#WXRUOmGKNiqV",
+    "image": "Thumb28.png"
+  },
+  {
+    "article_title": "MIX THE PERFECT PROTEIN SHAKE EVERY TIME WITH THIS PORTABLE BLENDER",
+    "publisher": "Muscle & Fitness",
+    "content_type": "Standard",
+    "categories": "Deal Articles",
+    "article_url": "https://www.muscleandfitness.com/features/gear/mix-perfect-protein-shake-every-time-portable-blender",
+    "image": "Thumb10.png"
+  },
+  {
+    "article_title": "THIS APP WILL ENSURE A GOOD NIGHT'S REST TO FUEL YOUR WORKOUTS",
+    "publisher": "Muscle & Fitness",
+    "content_type": "Standard",
+    "categories": "Deal Articles",
+    "article_url": "https://www.muscleandfitness.com/features/edge/app-will-ensure-good-night-s-rest-fuel-your-workouts",
+    "image": "Thumb16.png"
+  },
+  {
+    "article_title": "Get a Lifetime of Peace of Mind When You Browse",
+    "publisher": "The Mary Sue",
+    "content_type": "Standard",
+    "categories": "Deal Articles",
+    "article_url": "https://www.themarysue.com/vpn-deal-shop-post/",
+    "image": "X"
+  },
+  {
+    "article_title": "What You Need To Know About Self-Driving Cars",
+    "publisher": "Digg",
+    "content_type": "Premium",
+    "categories": "Current Events",
+    "article_url": "http://digg.com/2017/what-to-know-about-self-driving-cars-how-to-learn-ai-machine-learning",
+    "image": "X"
+  },
+  {
+    "article_title": "Save over $100 on the TREBLAB X11 Wireless Earbuds",
+    "publisher": "Engadget",
+    "content_type": "Standard",
+    "categories": "Men's Lifestyle",
+    "article_url": "https://www.engadget.com/2017/08/03/treblab-x11-wireless-earbuds/",
+    "image": "X"
+  },
+  {
+    "article_title": "4 Reasons To Start Teaching Your Kids To Code Today",
+    "publisher": "Working Mother",
+    "content_type": "Premium",
+    "categories": "Listicle",
+    "article_url": "http://www.workingmother.com/4-reasons-to-start-teaching-your-kids-to-code-today",
+    "image": ""
+  },
+  {
+    "article_title": "Everything from VPNs to stunt drones, here’s TNW Deals Black Friday preview sale",
+    "publisher": "The Next Web",
+    "content_type": "Standard",
+    "categories": "",
+    "article_url": "https://thenextweb.com/offers/2017/11/23/everything-from-vpns-to-stunt-drones-heres-tnw-deals-black-friday-preview-sale/",
+    "image": "X"
+  },
+  {
+    "article_title": "Stop Playing Fortnite and Find Out How to Build The Next One",
+    "publisher": "College Humor",
+    "content_type": "Standard",
+    "categories": "",
+    "article_url": "http://www.collegehumor.com/post/7055945/stop-playing-fortnite-and-find-out-how-to-build-the-next-one",
+    "image": "X"
+  },
+  {
+    "article_title": "5 Reasons Why Python Should Be the First Coding Language You Learn",
+    "publisher": "Popular Mechanics",
+    "content_type": "Standard",
+    "categories": "",
+    "article_url": "https://www.popularmechanics.com/technology/a27222/5-reasons-python-should-be-the-first-coding-language-you-learn/",
+    "image": ""
+  }
+]

@@ -5,9 +5,9 @@ import './variables.scss';
 import './app.scss';
 
 export default class App extends Component {
-    render () {
-        return (
-          <ContentPortal />
-        );
-    }
+  render () {
+    return (
+      <ContentPortal />
+    );
+  }
 }

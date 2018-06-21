@@ -1,0 +1,17 @@
+@import "../variables";
+
+.cp-tab-content {
+  margin-top: 50px;
+
+  &__main {
+    line-height: 2;
+    margin-right: 100px;
+    display: flex !important;
+
+    i {
+      color: $black;
+      font-size: 55px;
+      margin-right: 25px;
+    }
+  }
+}

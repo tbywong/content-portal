@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from '../../images/sc_logo.svg';
+import logo from '../../static/images/sc_logo.svg';
 import './navigation.scss';
 
 export default class Navigation extends Component {

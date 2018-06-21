@@ -1,0 +1,14 @@
+{
+  "premium": {
+    "description": "Take a look at all this well-researched, well-written, relevant and engaging content. Wait, what? They'\re all ads? The gold standard of the native advertising model, Brand Studio's Premium posts are reserved for our most qualified, expert writers. These posts go beyond the deal to tell a story, capture your readers' imaginations, and create lifetime customers.",
+    "icon": "star"
+  },
+  "standard": {
+    "description": "Our most popular content offering, Standard posts come in many shapes and sizes. The common thread: They speak to each publisher's audience in a familiar, trustworthy way. Show your readers an exciting new technology, a fun new toy, new professional skills, or a variety of solutions to help them get a better night's sleep — whatever captivates your audience — in your own voice.",
+    "icon": "pencil"
+  },
+  "video": {
+    "description": "No, video has not killed the editorial star, but it does present a compelling complementary option in the Brand Studio. Our product videos are light, value-driven, and to the point. They're roughly 30-45 seconds long, optimized for soundless viewing, and fit perfectly within posts or on social media channels.",
+    "icon": "video play"
+  }
+}

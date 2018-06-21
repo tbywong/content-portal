@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import { Tab } from 'semantic-ui-react';
-import ContentTab from './ContentTab/ContentTab.jsx';
+import TabContent from '../TabContent/TabContent.jsx';
+import categories from '../../static/json/categories.json';
+import { standard, premium } from '../../data/articles';
 import './tabs.scss';
 
 const panes = [
@@ -8,8 +10,10 @@ const panes = [
     menuItem: { key: 'premium', icon: 'star', content: 'PREMIUM' },
     pane: (
       <Tab.Pane key="tab1" className="cp-tab-pane">
-        <p>this tab is complex1</p>
-        <ContentTab />
+        <TabContent
+          description={categories.premium.description}
+          icon={categories.premium.icon}
+          articles={premium} />
       </Tab.Pane>
     )
   },
@@ -17,8 +21,10 @@ const panes = [
     menuItem: { key: 'standard', icon: 'pencil', content: 'STANDARD' },
     pane: (
       <Tab.Pane key="tab2" className="cp-tab-pane">
-        <p>this tab is complex2</p>
-        <ContentTab />
+        <TabContent
+          description={categories.standard.description}
+          icon={categories.standard.icon}
+          articles={standard} />
       </Tab.Pane>
     )
   },
@@ -26,8 +32,10 @@ const panes = [
     menuItem: { key: 'video', icon: 'video play', content: 'VIDEO' },
     pane: (
       <Tab.Pane key="tab3" className="cp-tab-pane">
-        <p>this tab is complex3</p>
-        <ContentTab />
+        <TabContent
+          description={categories.video.description}
+          icon={categories.video.icon}
+          articles={[]}/>
       </Tab.Pane>
     )
   }
