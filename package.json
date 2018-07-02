@@ -4,6 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "author": "tbywong",
+  "engines": {
+    "node": ">=9.5.0"
+  },
   "scripts": {
     "start": "node src/server.js & webpack",
     "start-dev": "nodemon src/server.js & webpack --watch",
