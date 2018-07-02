@@ -14,4 +14,14 @@
       margin-right: 25px;
     }
   }
+
+  &__articlesContainer {
+    @media (min-width: $screen-md) {
+      margin: 50px 0 0 250px;
+    }
+  }
+
+  &__article {
+    padding-bottom: 40px;
+  }
 }

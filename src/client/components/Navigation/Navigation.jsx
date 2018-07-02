@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from '../../static/images/sc_logo.svg';
 import './navigation.scss';
 
 export default class Navigation extends Component {
@@ -8,7 +7,9 @@ export default class Navigation extends Component {
       <div className="cp-navigation">
         <ul>
           <li>
-            <a href="https://www.stackcommerce.com"><img src={logo} /></a>
+            <a href="https://www.stackcommerce.com">
+              <img src={'images/sc_logo.svg'} />
+            </a>
           </li>
           <li>
             <a href="https://www.stackcommerce.com/publishers" target="_blank">PUBLISHERS</a>
