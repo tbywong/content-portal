@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Icon } from 'semantic-ui-react'
+import { Icon, Responsive } from 'semantic-ui-react'
 import Selector from '../Selector/Selector.jsx'
 import VideoDisplay from '../VideoDisplay/VideoDisplay.jsx'
 import Article from '../Article/Article.jsx'
@@ -61,18 +61,24 @@ export default class TabContent extends Component {
   render () {
     return (
       <div className="cp-tab-content">
-        <div className="ui grid">
-          <div className="row">
-            <div className="four wide column">
-              {this.props.video ? '' : <Selector
-                items={this.state.categories}
-                onSelect={this.handleSelection.bind(this)} />}
+        <div className="ui stackable grid">
+            <div className="row">
+              <div className="four wide column">
+              <Responsive minWidth={768}>
+                {this.props.video ?
+                  '' :
+                  <Selector
+                    items={this.state.categories}
+                    onSelect={this.handleSelection.bind(this)}
+                  />
+                }
+              </Responsive>
+              </div>
+              <div className="nine wide column cp-tab-content__main">
+                <Icon name={this.props.icon} />
+                {this.props.description}
+              </div>
             </div>
-            <div className="nine wide column cp-tab-content__main">
-              <Icon name={this.props.icon} />
-              {this.props.description}
-            </div>
-          </div>
           {this.props.video ? <VideoDisplay /> :
             <div className="row cp-tab-content__articlesContainer">
               {this.state.filteredArticles.map((article, index) => (

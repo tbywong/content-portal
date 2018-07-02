@@ -2,7 +2,7 @@
 
 .cp-selector {
   @media (min-width: $screen-md) {
-    margin-left: 50px;
+    margin: 50px 0 0 50px;
   }
 
   &__label {

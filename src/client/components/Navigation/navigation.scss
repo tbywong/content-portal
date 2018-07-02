@@ -1,17 +1,6 @@
 .cp-navigation {
-  max-width: 850px;
-  margin: 40px auto;
-
   ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-
-    li {
-      font-weight: bold;
-      margin-left: 30px;
-    }
   }
 
   a {
@@ -19,8 +8,43 @@
     text-decoration: none;
   }
 
-  img {
-    width: 200px;
-    margin-bottom: 10px;
+  &__desktop {
+    max-width: 850px;
+    margin: 40px auto;
+
+    ul {
+      margin: 0;
+      padding: 0;
+      display: flex;
+
+      li {
+        font-weight: bold;
+        margin-left: 30px;
+      }
+    }
+
+    img {
+      width: 200px;
+      margin-bottom: 10px;
+    }
+  }
+
+  &__mobile {
+    ul {
+      padding: 0;
+
+      li {
+        margin-top: 5px;
+      }
+    }
+
+    img {
+      display: none;
+    }
+
+    i {
+      font-size: 30px;
+      margin-top: 30px;
+    }
   }
 }
