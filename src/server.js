@@ -10,6 +10,6 @@ app.get('/', (request, response) => {
   response.sendFile(path.join(__dirname, './client/index.html'));
 });
 
-app.listen(3000, () => {
-    console.info('Server listening on localhost:3000')
+app.listen(process.env.port || 3000, () => {
+    console.info('StackCommerce Content Portal server online')
 });
