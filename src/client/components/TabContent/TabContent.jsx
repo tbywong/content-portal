@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import { Icon } from 'semantic-ui-react'
 import Selector from '../Selector/Selector.jsx'
+import VideoDisplay from '../VideoDisplay/VideoDisplay.jsx'
 import Article from '../Article/Article.jsx'
 import './tabContent.scss'
 
@@ -16,7 +17,10 @@ export default class TabContent extends Component {
 
   componentDidMount () {
     const categories = this.state.categories;
-    this.handleSelection(categories[0])
+
+    if (!this.props.video) {
+      this.handleSelection(categories[0])
+    }
   }
 
   handleSelection (selection) {
@@ -32,6 +36,7 @@ export default class TabContent extends Component {
   }
 
   _getUniqueCategories (articles) {
+    if (!articles) return;
     let parsedCategories = []
 
     articles.forEach(article => {
@@ -59,24 +64,26 @@ export default class TabContent extends Component {
         <div className="ui grid">
           <div className="row">
             <div className="four wide column">
-              <Selector
+              {this.props.video ? '' : <Selector
                 items={this.state.categories}
-                onSelect={this.handleSelection.bind(this)} />
+                onSelect={this.handleSelection.bind(this)} />}
             </div>
             <div className="nine wide column cp-tab-content__main">
               <Icon name={this.props.icon} />
               {this.props.description}
             </div>
           </div>
-          <div className="row cp-tab-content__articlesContainer">
-            {this.state.filteredArticles.map((article, index) => (
-              <div
-                key={index}
-                className="five wide column cp-tab-content__article">
-                <Article data={article} />
-              </div>
-            ))}
-          </div>
+          {this.props.video ? <VideoDisplay /> :
+            <div className="row cp-tab-content__articlesContainer">
+              {this.state.filteredArticles.map((article, index) => (
+                <div
+                  key={index}
+                  className="five wide column cp-tab-content__article">
+                  <Article data={article} />
+                </div>
+              ))}
+            </div>
+          }
         </div>
       </div>
     )

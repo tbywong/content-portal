@@ -35,7 +35,7 @@ const panes = [
         <TabContent
           description={categories.video.description}
           icon={categories.video.icon}
-          articles={[]}/>
+          video={true} />
       </Tab.Pane>
     )
   }
