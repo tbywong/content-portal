@@ -1,6 +1,5 @@
 module.exports = {
   entry: './src/client/index.js',
-  mode: 'development',
   performance: {
     hints: false
   },
