@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Tab } from 'semantic-ui-react';
 import TabContent from '../TabContent/TabContent.jsx';
 import categories from '../../static/json/categories.json';
-import { standard, premium } from '../../data/articles';
+import { standard, premium } from '../../config/articles';
 import './tabs.scss';
 
 const panes = [
