@@ -17,7 +17,7 @@ export default class Navigation extends Component {
             <ul>
               <li>
                 <a href="https://www.stackcommerce.com">
-                  <img src={'images/sc_logo.svg'} />
+                  <img src={'sc_logo.svg'} />
                 </a>
               </li>
               <li>
